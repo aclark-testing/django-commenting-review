@@ -8,7 +8,7 @@ Django commenting review
 |                         |          |                                         |
 |                         | django-  |                                         |
 |                         | contrib- |                                         |
-|                         | comments-|                                         |
+|                         | comments |                                         |
 |                         |          |                                         |
 +-------------------------+----------+-----------------------------------------+
 | django-contrib-comments |    N     |                                         |
