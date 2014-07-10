@@ -1,4 +1,4 @@
 Django commenting review
 ========================
 
-*Review commenting frameworks*
+*Review Django commenting frameworks*
