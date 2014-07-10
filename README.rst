@@ -11,8 +11,8 @@ Django commenting review
 |                         | comments |                                                             |
 |                         |          |                                                             |
 +-------------------------+----------+-------------------------------------------------------------+
-| django-contrib-comments |   N/A    | Formerly in Django core, now outside of core:               |
-|                         |          |                                                             |
+| django-contrib-comments |   N/A    | Formerly included in Django core, now maintained outside of |
+|                         |          | core:                                                       |
 |                         |          | https://github.com/django/django-contrib-comments           |
 |                         |          |                                                             |
 +-------------------------+----------+-------------------------------------------------------------+
