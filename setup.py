@@ -8,6 +8,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'Django',
+        'django-contrib-comments',
     ],
     name='django-commenting-review',
     namespace_packages=[
