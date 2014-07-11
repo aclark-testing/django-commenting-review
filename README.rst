@@ -23,7 +23,7 @@ Django commenting review
 +-----------------------------+----------------+-------------------------------------------------------------+
 | django-fluent-comments_     |   Yes          | Adds AJAX.                                                  |
 +-----------------------------+----------------+-------------------------------------------------------------+
-| dialogos                    |   No           |                                                             |
+| dialogos_                   |   No           | Made by Eldarion (big Django shop)                          |
 +-----------------------------+----------------+-------------------------------------------------------------+
 | django-richcomments         |   Yes          |                                                             |
 +-----------------------------+----------------+-------------------------------------------------------------+
@@ -40,3 +40,4 @@ Django commenting review
 .. _django-threadedcomments: https://github.com/HonzaKral/django-threadedcomments 
 .. _django-comments-xtd: https://github.com/danirus/django-comments-xtd
 .. _django-fluent-comments: https://github.com/edoburu/django-fluent-comments
+.. _dialogos: https://github.com/eldarion/dialogos
