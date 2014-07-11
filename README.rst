@@ -13,7 +13,6 @@ Django commenting review
 +-----------------------------+----------+-------------------------------------------------------------+
 | django-contrib-comments_    |   N/A    | Formerly included in Django core, now maintained outside of |
 |                             |          | core:                                                       |
-|                             |          | https://github.com/django/django-contrib-comments.          |
 |                             |          | Many other commenting apps are based on this package; they  |
 |                             |          | typically add "advanced" features like AJAX, threading, etc.|
 +-----------------------------+----------+-------------------------------------------------------------+
