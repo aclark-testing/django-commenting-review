@@ -39,7 +39,7 @@ Django commenting review
 Downloads
 ~~~~~~~~~
 
-Downloads give some sense of the popularity of an app::
+Downloads give some indication of the popularity of an app::
 
     django-contrib-comments-1.5.tar.gz    2013-03-11        5,142
     -------------------------------------------------------------
