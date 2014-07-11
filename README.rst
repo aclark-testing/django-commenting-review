@@ -21,7 +21,7 @@ Django commenting review
 | django-comments-xtd_        |   Yes          | Adds threaded commenting, follow up notifications & comment |
 |                             |                | confirmation by email.                                      |
 +-----------------------------+----------------+-------------------------------------------------------------+
-| django-fluent-comments      |   Yes          |                                                             |
+| django-fluent-comments_     |   Yes          |                                                             |
 +-----------------------------+----------------+-------------------------------------------------------------+
 | dialogos                    |   No           |                                                             |
 +-----------------------------+----------------+-------------------------------------------------------------+
@@ -39,3 +39,4 @@ Django commenting review
 .. _django-contrib-comments: https://github.com/django/django-contrib-comments
 .. _django-threadedcomments: https://github.com/HonzaKral/django-threadedcomments 
 .. _django-comments-xtd: https://github.com/danirus/django-comments-xtd
+.. _django-fluent-comments: https://github.com/edoburu/django-fluent-comments
