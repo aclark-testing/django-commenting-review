@@ -16,7 +16,7 @@ Django commenting review
 |                             |          | Many other commenting apps are based on this package; they  |
 |                             |          | typically add "advanced" features like AJAX, threading, etc.|
 +-----------------------------+----------+-------------------------------------------------------------+
-| django-threadedcomments_    |   Yes    |                                                             |
+| django-threadedcomments_    |   Yes    | Adds threaded commenting.                                   |
 +-----------------------------+----------+-------------------------------------------------------------+
 | django-comments-xtd         |   Yes    |                                                             |
 +-----------------------------+----------+-------------------------------------------------------------+
