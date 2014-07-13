@@ -39,7 +39,7 @@ Django commenting review
 Downloads
 ~~~~~~~~~
 
-Downloads give some indication of the popularity of an app. If you believe that, then django-threadedcomments "wins".
+Downloads give some indication of the popularity of an app. If you believe that, then **django-threadedcomments** "wins".
 
 django-contrib-comments
 +++++++++++++++++++++++
@@ -49,7 +49,7 @@ django-contrib-comments
     -------------------------------------------------------------
     django-contrib-comments has been downloaded 5,142 times!
 
-django-contrib-comments
+django-threadedcomments
 +++++++++++++++++++++++
 ::
 
@@ -60,7 +60,7 @@ django-contrib-comments
     ---------------------------------------------------------------
     django-threadedcomments has been downloaded 34,743 times!
 
-django-contrib-comments
+django-comments-xtd
 +++++++++++++++++++++++
 ::
 
@@ -80,7 +80,7 @@ django-contrib-comments
     --------------------------------------------------------------
     django-comments-xtd has been downloaded 12,788 times!
 
-django-contrib-comments
+django-fluent-comments
 +++++++++++++++++++++++
 ::
 
@@ -93,7 +93,7 @@ django-contrib-comments
     --------------------------------------------------------------
     django-fluent-comments has been downloaded 6,430 times!
 
-django-contrib-comments
+dialogos
 +++++++++++++++++++++++
 ::
 
@@ -104,7 +104,7 @@ django-contrib-comments
     ----------------------------------------------
     dialogos has been downloaded 12,408 times!
 
-django-contrib-comments
+django-richcomments
 +++++++++++++++++++++++
 ::
 
