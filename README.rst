@@ -39,7 +39,7 @@ Django commenting review
 Downloads
 ~~~~~~~~~
 
-Downloads give some indication of the popularity of an app. If you believe that, then `django-threadedcomments <https://github.com/HonzaKral/django-threadedcomments>`_ "wins". However most of its downloads occurred prior to being based on django-contrib-comments, which makes django-comments-xtd the "winner" followed by django-richcomments, dialogos and django-fluent-comments.
+Downloads give some indication of the popularity of an app. If you believe that, then `django-threadedcomments <https://github.com/HonzaKral/django-threadedcomments>`_ "wins". However most of its downloads occurred prior to being based on django-contrib-comments, which makes django-comments-xtd the "winner"; followed by django-richcomments, dialogos and django-fluent-comments.
 
 django-contrib-comments
 +++++++++++++++++++++++
