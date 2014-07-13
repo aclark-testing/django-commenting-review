@@ -39,14 +39,18 @@ Django commenting review
 Downloads
 ~~~~~~~~~
 
-Downloads give some indication of the popularity of an app. If you believe that then django-threadedcomments "wins".
+Downloads give some indication of the popularity of an app. If you believe that, then django-threadedcomments "wins".
 
+django-contrib-comments
++++++++++++++++++++++++
 ::
 
     django-contrib-comments-1.5.tar.gz    2013-03-11        5,142
     -------------------------------------------------------------
     django-contrib-comments has been downloaded 5,142 times!
 
+django-contrib-comments
++++++++++++++++++++++++
 ::
 
     django-threadedcomments-0.5.1.tar.gz    2009-03-31        4,497
@@ -56,6 +60,8 @@ Downloads give some indication of the popularity of an app. If you believe that 
     ---------------------------------------------------------------
     django-threadedcomments has been downloaded 34,743 times!
 
+django-contrib-comments
++++++++++++++++++++++++
 ::
 
     django_comments_xtd-1.0a5-py2.6.egg    2012-05-28        1,431
@@ -74,6 +80,8 @@ Downloads give some indication of the popularity of an app. If you believe that 
     --------------------------------------------------------------
     django-comments-xtd has been downloaded 12,788 times!
 
+django-contrib-comments
++++++++++++++++++++++++
 ::
 
     django-fluent-comments-0.8.0.tar.gz    2013-01-06        1,329
@@ -85,6 +93,8 @@ Downloads give some indication of the popularity of an app. If you believe that 
     --------------------------------------------------------------
     django-fluent-comments has been downloaded 6,430 times!
 
+django-contrib-comments
++++++++++++++++++++++++
 ::
 
     dialogos-0.1.tar.gz    2012-06-07        2,457
@@ -94,6 +104,8 @@ Downloads give some indication of the popularity of an app. If you believe that 
     ----------------------------------------------
     dialogos has been downloaded 12,408 times!
 
+django-contrib-comments
++++++++++++++++++++++++
 ::
 
     django_richcomments-0.0.1-py2.6.egg    2010-08-03        1,990
