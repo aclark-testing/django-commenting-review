@@ -39,7 +39,7 @@ Django commenting review
 Downloads
 ~~~~~~~~~
 
-Downloads give some indication of the popularity of an app. If you believe that, then **django-threadedcomments** "wins".
+Downloads give some indication of the popularity of an app. If you believe that, then `django-threadedcomments <https://github.com/HonzaKral/django-threadedcomments>`_ "wins".
 
 django-contrib-comments
 +++++++++++++++++++++++
