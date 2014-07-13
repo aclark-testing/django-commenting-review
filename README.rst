@@ -30,7 +30,7 @@ Django commenting review
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
 | django-disqus_              |   No [2]_      |                                                             |  No                |
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
-|                             |                |                                                             |                    |
+| django-ajaxcomments_        |   No           | Adds AJAX, deprecated.                                      |  No                |
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
 |                             |                |                                                             |                    |
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
@@ -134,6 +134,7 @@ Sources
 .. _dialogos: https://github.com/eldarion/dialogos
 .. _django-richcomments: https://github.com/praekelt/django-richcomments
 .. _django-disqus: https://github.com/arthurk/django-disqus
+.. _django-ajaxcomments: https://bitbucket.org/bkonkle/django-ajaxcomments
 
 .. [1] As of 0.9
 .. [2] But it will export them to Disqus.
