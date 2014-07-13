@@ -16,7 +16,7 @@ Django commenting review
 |                             |                | Many other commenting apps are based on this package; they  |
 |                             |                | typically add "advanced" features like AJAX, threading, etc.|
 +-----------------------------+----------------+-------------------------------------------------------------+
-| django-threadedcomments_    |   Yes          | Adds threaded commenting.                                   |
+| django-threadedcomments_    |   Yes [1]_     | Adds threaded commenting.                                   |
 +-----------------------------+----------------+-------------------------------------------------------------+
 | django-comments-xtd_        |   Yes          | Adds threaded commenting, follow up notifications & comment |
 |                             |                | confirmation by email.                                      |
@@ -123,3 +123,5 @@ django-richcomments
 .. _django-fluent-comments: https://github.com/edoburu/django-fluent-comments
 .. _dialogos: https://github.com/eldarion/dialogos
 .. _django-richcomments: https://github.com/praekelt/django-richcomments
+
+.. [1] As of 0.9
