@@ -134,4 +134,4 @@ Sources
 
 .. [1] As of 0.9
 .. [2] But it will export them to Disqus.
-.. [3] Based on a client's req for an "in house" commenting system.
+.. [3] Based on a client's req for "in house" commenting system.
