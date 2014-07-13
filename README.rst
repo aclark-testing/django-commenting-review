@@ -41,13 +41,6 @@ Downloads
 
 Downloads give some indication of the popularity of an app. If you believe that, then `django-threadedcomments <https://github.com/HonzaKral/django-threadedcomments>`_ "wins". However most of its downloads occurred prior to being based on django-contrib-comments, which makes django-comments-xtd the "winner"; followed by django-richcomments, dialogos and django-fluent-comments.
 
-django-contrib-comments
-+++++++++++++++++++++++
-::
-
-    django-contrib-comments-1.5.tar.gz    2013-03-11        5,142
-    -------------------------------------------------------------
-    django-contrib-comments has been downloaded 5,142 times!
 
 django-threadedcomments
 +++++++++++++++++++++++
@@ -116,6 +109,14 @@ django-fluent-comments
     django-fluent-comments-1.0a2.tar.gz    2014-04-17          493
     --------------------------------------------------------------
     django-fluent-comments has been downloaded 6,430 times!
+
+django-contrib-comments
++++++++++++++++++++++++
+::
+
+    django-contrib-comments-1.5.tar.gz    2013-03-11        5,142
+    -------------------------------------------------------------
+    django-contrib-comments has been downloaded 5,142 times!
 
 .. _django-contrib-comments: https://github.com/django/django-contrib-comments
 .. _django-threadedcomments: https://github.com/HonzaKral/django-threadedcomments 
