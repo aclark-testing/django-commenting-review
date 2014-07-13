@@ -34,6 +34,9 @@ Django commenting review
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
 | django-mptt-comments        |   No           | DOA                                                         |  No                |
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
+| nano_                       |   No           | A collection of lil'apps for Django, one of which is for    |  Probably not      |
+|                             |                | commenting                                                  |                    |
++-----------------------------+----------------+-------------------------------------------------------------+--------------------+
 |                             |                |                                                             |                    |
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
 
@@ -135,6 +138,7 @@ Sources
 .. _django-richcomments: https://github.com/praekelt/django-richcomments
 .. _django-disqus: https://github.com/arthurk/django-disqus
 .. _django-ajaxcomments: https://bitbucket.org/bkonkle/django-ajaxcomments
+.. _nano: https://github.com/kaleissin/django-nano/tree/master/nano/comments
 
 .. [1] As of 0.9
 .. [2] But it will export them to Disqus.
