@@ -39,11 +39,15 @@ Django commenting review
 Downloads
 ~~~~~~~~~
 
-Downloads give some indication of the popularity of an app::
+Downloads give some indication of the popularity of an app. If you believe that then django-threadedcomments "wins".
+
+::
 
     django-contrib-comments-1.5.tar.gz    2013-03-11        5,142
     -------------------------------------------------------------
     django-contrib-comments has been downloaded 5,142 times!
+
+::
 
     django-threadedcomments-0.5.1.tar.gz    2009-03-31        4,497
     django-threadedcomments-0.5.2.tar.gz    2009-11-30       12,963
@@ -51,6 +55,8 @@ Downloads give some indication of the popularity of an app::
     django-threadedcomments-0.9.0.tar.gz    2013-05-15        5,037
     ---------------------------------------------------------------
     django-threadedcomments has been downloaded 34,743 times!
+
+::
 
     django_comments_xtd-1.0a5-py2.6.egg    2012-05-28        1,431
        django-comments-xtd-1.0a5.tar.gz    2012-05-28        1,457
@@ -68,6 +74,8 @@ Downloads give some indication of the popularity of an app::
     --------------------------------------------------------------
     django-comments-xtd has been downloaded 12,788 times!
 
+::
+
     django-fluent-comments-0.8.0.tar.gz    2013-01-06        1,329
       django-fluent-comments-0.9.tar.gz    2013-05-16          748
     django-fluent-comments-0.9.1.tar.gz    2013-05-28          698
@@ -77,12 +85,16 @@ Downloads give some indication of the popularity of an app::
     --------------------------------------------------------------
     django-fluent-comments has been downloaded 6,430 times!
 
+::
+
     dialogos-0.1.tar.gz    2012-06-07        2,457
     dialogos-0.2.tar.gz    2012-11-01        7,228
     dialogos-0.3.tar.gz    2013-02-12        1,193
     dialogos-0.4.tar.gz    2013-11-27        1,530
     ----------------------------------------------
     dialogos has been downloaded 12,408 times!
+
+::
 
     django_richcomments-0.0.1-py2.6.egg    2010-08-03        1,990
     django_richcomments-0.0.1-py2.5.egg    2010-08-03        1,725
