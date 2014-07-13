@@ -39,7 +39,7 @@ Django commenting review
 Downloads
 ~~~~~~~~~
 
-Downloads give some indication of the popularity of an app. If you believe that, then `django-threadedcomments <https://github.com/HonzaKral/django-threadedcomments>`_ "wins".
+Downloads give some indication of the popularity of an app. If you believe that, then `django-threadedcomments <https://github.com/HonzaKral/django-threadedcomments>`_ "wins". However most of its downloads occurred prior to being based on django-contrib-comments, which makes django-comments-xtd the "winner" followed by django-richcomments, dialogos and django-fluent-comments.
 
 django-contrib-comments
 +++++++++++++++++++++++
@@ -80,19 +80,6 @@ django-comments-xtd
     --------------------------------------------------------------
     django-comments-xtd has been downloaded 12,788 times!
 
-django-fluent-comments
-+++++++++++++++++++++++
-::
-
-    django-fluent-comments-0.8.0.tar.gz    2013-01-06        1,329
-      django-fluent-comments-0.9.tar.gz    2013-05-16          748
-    django-fluent-comments-0.9.1.tar.gz    2013-05-28          698
-    django-fluent-comments-0.9.2.tar.gz    2013-07-04        2,699
-    django-fluent-comments-1.0a1.tar.gz    2014-04-03          463
-    django-fluent-comments-1.0a2.tar.gz    2014-04-17          493
-    --------------------------------------------------------------
-    django-fluent-comments has been downloaded 6,430 times!
-
 dialogos
 +++++++++++++++++++++++
 ::
@@ -116,6 +103,19 @@ django-richcomments
        django-richcomments-0.0.2.tar.gz    2011-09-15        1,936
     --------------------------------------------------------------
     django-richcomments has been downloaded 11,203 times!
+
+django-fluent-comments
++++++++++++++++++++++++
+::
+
+    django-fluent-comments-0.8.0.tar.gz    2013-01-06        1,329
+      django-fluent-comments-0.9.tar.gz    2013-05-16          748
+    django-fluent-comments-0.9.1.tar.gz    2013-05-28          698
+    django-fluent-comments-0.9.2.tar.gz    2013-07-04        2,699
+    django-fluent-comments-1.0a1.tar.gz    2014-04-03          463
+    django-fluent-comments-1.0a2.tar.gz    2014-04-17          493
+    --------------------------------------------------------------
+    django-fluent-comments has been downloaded 6,430 times!
 
 .. _django-contrib-comments: https://github.com/django/django-contrib-comments
 .. _django-threadedcomments: https://github.com/HonzaKral/django-threadedcomments 
