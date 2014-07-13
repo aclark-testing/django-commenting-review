@@ -9,6 +9,9 @@ setup(
     install_requires=[
         'Django',
         'django-contrib-comments',
+        'django-threadedcomments',
+        'django-comments-xtd',
+        'django-fluent-comments',
     ],
     name='django-commenting-review',
     namespace_packages=[
