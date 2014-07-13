@@ -6,7 +6,7 @@ Django commenting review
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
 |                             | **Extends**    | **Comments**                                                | **Worth**          |
 |                             |                |                                                             | **Considering?**   |
-|                             | **django-**    |                                                             |                    |
+|                             | **django-**    |                                                             | [3]_               |
 |                             | **contrib-**   |                                                             |                    |
 |                             | **comments**   |                                                             |                    |
 |                             |                |                                                             |                    |
@@ -118,6 +118,12 @@ django-contrib-comments
     -------------------------------------------------------------
     django-contrib-comments has been downloaded 5,142 times!
 
+
+Sources
+-------
+
+- https://www.djangopackages.com/grids/g/commenting/
+
 .. _django-contrib-comments: https://github.com/django/django-contrib-comments
 .. _django-threadedcomments: https://github.com/HonzaKral/django-threadedcomments 
 .. _django-comments-xtd: https://github.com/danirus/django-comments-xtd
@@ -128,3 +134,4 @@ django-contrib-comments
 
 .. [1] As of 0.9
 .. [2] But it will export them to Disqus.
+.. [3] Based on a client's req for an "in house" commenting system.
