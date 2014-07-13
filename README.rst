@@ -21,7 +21,7 @@ Django commenting review
 | django-comments-xtd_        |   Yes          | Adds threaded commenting, follow up notifications & comment |  Yes               |
 |                             |                | confirmation by email.                                      |                    |
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
-| django-fluent-comments_     |   Yes          | Adds AJAX. Included with django-fluent CMS but usable       |  Maybe?            |
+| django-fluent-comments_     |   Yes          | Adds AJAX. Included with django-fluent CMS but can be used  |  Maybe?            |
 |                             |                | independently.                                              |                    |
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
 | dialogos_                   |   No           | Made by `Eldarion <http://eldarion.com/>`_                  |  Maybe?            |
