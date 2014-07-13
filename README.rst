@@ -37,7 +37,7 @@ Django commenting review
 | nano_                       |   No           | A collection of lil'apps for Django, one of which is        |  Probably not      |
 |                             |                | commenting.                                                 |                    |
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
-|                             |                |                                                             |                    |
+| django-reviews_             |   No           | Coupled with ratings.                                       |  Probably not      |
 +-----------------------------+----------------+-------------------------------------------------------------+--------------------+
 
 Downloads
@@ -139,6 +139,7 @@ Sources
 .. _django-disqus: https://github.com/arthurk/django-disqus
 .. _django-ajaxcomments: https://bitbucket.org/bkonkle/django-ajaxcomments
 .. _nano: https://github.com/kaleissin/django-nano/tree/master/nano/comments
+.. _django-reviews: https://github.com/diefenbach/django-reviews
 
 .. [1] As of 0.9
 .. [2] But it will export them to Disqus.
