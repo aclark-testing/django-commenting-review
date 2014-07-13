@@ -123,6 +123,8 @@ django-contrib-comments
 Sources
 -------
 
+.. Note:: Forum software was not considered e.g. https://www.djangopackages.com/grids/g/forums/
+
 - https://www.djangopackages.com/grids/g/commenting/
 
 .. _django-contrib-comments: https://github.com/django/django-contrib-comments
